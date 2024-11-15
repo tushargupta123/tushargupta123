@@ -2,7 +2,7 @@
 <h3 align="center"><b>Software Developer</b></h3>
 
 - 🔭 I’m currently working as **Backend Developer Intern** at **Vcriate**, where I'm building a CMS for assessment questions using Node.js, Express, and MongoDB.
-- 
+
 - 👯 I’m looking to collaborate on Backend Development, Cloud Solutions, and Microservices Projects.
 
 - 🤝 I’m looking for help with scaling distributed systems and optimizing backend architecture.
