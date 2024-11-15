@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects and Backend Technologies**.
 
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/tushargupta123).
+- 👨‍💻 My notable projects are [E-Commerce App](https://github.com/tushargupta123/MERN-ecommerce) and [Airline Booking Platform](https://github.com/tushargupta123/Airline).
 
 - 💬 Ask me about **Node.js, Express.js, REST APIs, MongoDB, SQL, RabbitMQ**.
 
